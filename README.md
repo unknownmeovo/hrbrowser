@@ -1,4 +1,5 @@
-
+> [!NOTE]
+> PLEASE READ FULL DOCUMENTATION 
 # HrBrowser
 A free, lightweight, and open-source browser created with Python and HTML(only the main page of browser) 
 ## Requirements:
